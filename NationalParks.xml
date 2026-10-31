@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>//11 total national parks with elements and attribute shown on figure 1 of assignment
+<NationalParks>
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
