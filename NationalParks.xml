@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>//11 total national parks with elements and attribute shown on figure 1 of assignment
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+<NationalPark>
+  <Name>Yosemite</Name>
+  <Phone>209-372-0200</Phone>
+  <Address NearestAirport="Fresno">
+    <Number>120</Number>
+    <Street>Arch Rock</Street>
+    <City>Yosemite</City>
+    <State>CA</State>
+    <Zip>95389</Zip>
+  </Address>
+</NationalPark>
+<NationalPark>
+  <Name>Yellowstone</Name>
+  <Phone>307-344-7381</Phone>
+  <Address NearestAirport="Yellowstone">
+    <Number>2</Number>
+    <Street>Officers Row </Street>
+    <City>Yellowstone</City>
+    <State>WY</State>
+    <Zip>82190</Zip>
+  </Address>
+</NationalPark>
+  <NationalPark Rating="4.7">
+  <Name>Joshua Tree</Name>
+  <Phone>760-318-3800</Phone>
+  <Address NearestAirport="Palm Spring">
+    <Number>74485</Number>
+    <Street>National Park Drive </Street>
+    <City>Twentynine Palms </City>
+    <State>CA</State>
+    <Zip>92277</Zip>
+  </Address>
+</NationalPark>
+<NationalPark>
+  <Name>Death Valley</Name>
+  <Phone>760-786-2331</Phone>
+  <Address NearestAirport="Harry Reid">
+    <Number>23</Number>
+    <Street>Airport Rd </Street>
+    <City>Death Valley</City>
+    <State>CA</State>
+    <Zip>92328</Zip>
+  </Address>
+</NationalPark>
+<NationalPark>
+  <Name>Bryce Canyon</Name>
+  <Phone>435-834-5322</Phone>
+  <Address NearestAirport="Bryce Canyon">
+    <Number>2</Number>
+    <Street>Highway 63</Street>
+    <City>Bryce</City>
+    <State>UT</State>
+    <Zip>84764</Zip>
+  </Address>
+</NationalPark>
+  <NationalPark Rating="4.7">
+  <Name>Zion</Name>
+  <Phone>435-702-2356</Phone>
+  <Phone>435-772-3256</Phone>
+  <Address NearestAirport="St George">
+    <Number>1</Number>
+    <Street>Zion Park Blvd </Street>
+    <City>Springdale</City>
+    <State>UT</State>
+    <Zip>84767</Zip>
+  </Address>
+</NationalPark>
+<NationalPark>
+  <Name>Acadia</Name>
+  <Phone>207-288-3338</Phone>
+  <Address NearestAirport="Bangor">
+    <Number>25</Number>
+    <Street>Visitor Center Road </Street>
+    <City>Bar Harbor</City>
+    <State>ME</State>
+    <Zip>04609</Zip>
+  </Address>
+</NationalPark>
+<NationalPark>
+  <Name>Glacier</Name>
+  <Phone>406-888-7800</Phone>
+  <Phone>405-782-2357</Phone>
+  <Phone>405-672-3261</Phone> 
+  <Address NearestAirport="Glacier Park">
+    <Number>64</Number>
+    <Street>Grinnell Drive</Street>
+    <City>Glacier</City>
+    <State>MT</State>
+    <Zip>59936</Zip>
+  </Address>
+</NationalPark>
+  <NationalPark Rating="4.4">
+  <Name>Olympic</Name>
+  <Phone>360-565-3130</Phone>
+  <Address NearestAirport="Seattle-Tacoma">
+    <Number>3002</Number>
+    <Street>Mt Angeles Rd</Street>
+    <City>Port Angeles</City>
+    <State>WA</State>
+    <Zip>98362</Zip>
+  </Address>
+</NationalPark>
+ <NationalPark Rating="4.4">
+  <Name>Denali</Name>
+  <Phone>907-683-9532</Phone>
+  <Address NearestAirport="Seattle-Tacoma">
+    <Number>9</Number>
+    <Street>Alaska Highway</Street>
+    <City>Denali Park</City>
+    <State>AK</State>
+    <Zip>99755</Zip>
+  </Address>
+</NationalPark>
+</NationalParks>
